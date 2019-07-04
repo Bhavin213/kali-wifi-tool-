@@ -1,5 +1,7 @@
 You can video watching this (Link is given below) :-
+https://www.youtube.com/watch?v=QD9oX2woNus&t=77s
 https://www.youtube.com/watch?v=VcQsIYE9dbY&list=LLYqBrJ9yhnPHRn3jRgiAvyg
+
 
 $ su root
 (your passward enter)
