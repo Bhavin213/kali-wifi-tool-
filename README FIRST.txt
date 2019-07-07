@@ -21,6 +21,6 @@ $ su root
 
 # ls
 # cd ..
-# clean
+# clear
 # ls
 # ./fluxion.sh
